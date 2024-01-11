@@ -1,2 +1,2 @@
-# YoLoV8--ROI--Object-Detection-and-Tracking-
-YoLoV8 -ROI- Object Detection and Tracking 
+# YoLo-V8---Object-Detection-and-Tracking-in-ROI
+ YoLo V8 - Object Detection and Tracking in ROI
